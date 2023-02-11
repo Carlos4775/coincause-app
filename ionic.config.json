@@ -1,0 +1,7 @@
+{
+  "name": "coincause-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
